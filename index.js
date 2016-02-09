@@ -1,2 +1,4 @@
 
-module.exports = require('./lib/router');
+module.exports = exports = require('./lib/router');
+
+exports.parser = require('./lib/parser');
