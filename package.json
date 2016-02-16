@@ -1,41 +1,44 @@
 {
-    "name": "nodewamp",
-    "version": "0.1.0",
-    "description": "A WAMP router implementation.",
-    "author": "53js",
-    "contributors": [{
-        "name": "François Michaudon",
-        "email": "francois.michaudon@53js.fr"
-    }, {
-        "name": "Hugo Mallet",
-        "email": "hugo.mallet@53js.fr"
-    }],
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/53js/nodewamp.git"
+  "name": "nodewamp",
+  "version": "0.1.1",
+  "description": "A WAMP router implementation.",
+  "author": "53js",
+  "contributors": [
+    {
+      "name": "François Michaudon",
+      "email": "francois.michaudon@53js.fr"
     },
-    "keywords": [
-        "WAMP",
-        "websocket",
-        "router"
-    ],
-    "homepage": "https://github.com/53js/nodewamp",
-    "devDependencies": {
-        "autobahn": "^0.9.4-2",
-        "chai": "^1.9.1",
-        "chai-as-promised": "^4.1.1",
-        "chai-spies": "^0.5.1",
-        "jsdoc": "^3.3.0-alpha9",
-        "mocha": "^1.21.4"
-    },
-    "dependencies": {
-        "debug": "^2.0.0",
-        "lodash": "^2.4.1",
-        "q": "^1.0.1",
-        "winston": "^2.1.1",
-        "ws": "^0.6.4"
-    },
-    "preferGlobal": false,
-    "license": "MIT"
+    {
+      "name": "Hugo Mallet",
+      "email": "hugo.mallet@53js.fr"
+    }
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/53js/nodewamp.git"
+  },
+  "keywords": [
+    "WAMP",
+    "websocket",
+    "router"
+  ],
+  "homepage": "https://github.com/53js/nodewamp",
+  "devDependencies": {
+    "autobahn": "^0.9.4-2",
+    "chai": "^1.9.1",
+    "chai-as-promised": "^4.1.1",
+    "chai-spies": "^0.5.1",
+    "jsdoc": "^3.3.0-alpha9",
+    "mocha": "^1.21.4"
+  },
+  "dependencies": {
+    "debug": "^2.0.0",
+    "lodash": "^2.4.1",
+    "q": "^1.0.1",
+    "winston": "^2.1.1",
+    "ws": "^0.6.4"
+  },
+  "preferGlobal": false,
+  "license": "MIT"
 }
