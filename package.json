@@ -1,6 +1,6 @@
 {
   "name": "nodewamp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A WAMP router implementation.",
   "author": "53js",
   "contributors": [
