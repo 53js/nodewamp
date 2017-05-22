@@ -1,4 +1,4 @@
-#NodeWamp#
+# NodeWamp
 
 Node.js WAMP router implementation. Supports only basic profile for now.
 
